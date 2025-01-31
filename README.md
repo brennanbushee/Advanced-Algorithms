@@ -1,2 +1,2 @@
 # Advanced-Algorithms
-Advanced Algorithms and HackerRank
+Advanced Algorithms Practice: Interview and Contest Problems
