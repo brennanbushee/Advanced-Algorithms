@@ -1,0 +1,14 @@
+ecebaaaaca|6
+aabbcc|4
+abcabcabc|2
+abcde|2
+aabcdee|3
+abcdeefg|3
+aaaa|0
+aaaab|5
+baaaa|5
+aabaa|5
+aaaabbbb|8
+a|0
+|0
+aabacbebebe|6

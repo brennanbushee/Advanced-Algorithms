@@ -1,0 +1,3 @@
+abbbc|ab*c|1
+abc|.ab*..|0
+abcdefg|a.c.*.*gg*|1
